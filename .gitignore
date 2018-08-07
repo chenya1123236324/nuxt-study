@@ -10,3 +10,18 @@ npm-debug.log
 # Nuxt generate
 dist
 .vscode/
+
+logs/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+.idea/workspace.xml
+run/
+.DS_Store
+*.sw*
+*.un~
+dist
+build
