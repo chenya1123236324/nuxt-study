@@ -1,4 +1,4 @@
-# bnhcp
+# nuxt-study
 
 > Nuxt.js project
 

@@ -1,27 +1,15 @@
-# dependencies
-node_modules
-
-# logs
-npm-debug.log
-
-# Nuxt build
-.nuxt
-
-# Nuxt generate
-dist
-.vscode/
-
 logs/
 npm-debug.log
 yarn-error.log
+node_modules/
 package-lock.json
 yarn.lock
 coverage/
 .idea/
-.idea/workspace.xml
 run/
 .DS_Store
 *.sw*
 *.un~
+.nuxt
 dist
 build
